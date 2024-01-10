@@ -29,5 +29,7 @@ public class ActionItem_09 extends TestParent {
         System.out.println("The message is : " + boldMessage + " Is " + isMessageCorrect);
         //use the boolean method to figure out if it is true
         Reusable_Methods_Loggers.isConditionTrue(isMessageCorrect, logger);
+        //commit message
+        System.out.println("Asif was here");
     }//end of test case 1
 }

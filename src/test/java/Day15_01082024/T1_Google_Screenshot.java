@@ -15,7 +15,7 @@ public class T1_Google_Screenshot extends TestParent {
         //hit submit on the google search button
         Reusable_Methods_Loggers.submitMethod(driver, "//*[@name= 'btnKl']", logger,"Submit");
         Thread.sleep(1000);
-    }//end of test case 2
+    }//end of test case 1
 
 
         @Test

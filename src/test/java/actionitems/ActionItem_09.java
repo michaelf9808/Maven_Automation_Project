@@ -31,5 +31,7 @@ public class ActionItem_09 extends TestParent {
         Reusable_Methods_Loggers.isConditionTrue(isMessageCorrect, logger);
         //commit message
         System.out.println("Asif was here");
+        System.out.println("Asif was here again");
+
     }//end of test case 1
 }
